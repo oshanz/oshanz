@@ -4,7 +4,7 @@
 
 [![Oshan's github stats](https://github-readme-stats.vercel.app/api?username=oshanz&count_private=true&show_icons=true)](https://github.com/oshanz)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oshanz&hide=html)](https://github.com/oshanz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oshanz&hide=html,emacs%20lisp,css,vim%20script,asp,perl&langs_count=10)](https://github.com/oshanz)
 
 
 <!--
