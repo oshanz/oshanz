@@ -2,7 +2,7 @@
 
 
 
-[![Oshan's github stats](https://github-readme-stats-one-red-72.vercel.app/api?username=oshanz&count_private=true&show_icons=true)](https://github.com/oshanz)
+[![Oshan's github stats](https://github-readme-stats-one-red-72.vercel.app/api?username=oshanz&count_private=true&show_icons=true&rank_icon=github)](https://github.com/oshanz)
 
 [![Top Langs](https://github-readme-stats-one-red-72.vercel.app/api/top-langs/?username=oshanz&hide=html,emacs%20lisp,css,vim%20script,asp,perl,shell,erlang&langs_count=10)](https://github.com/oshanz)
 
