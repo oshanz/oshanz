@@ -2,10 +2,21 @@
 
 Full-stack engineer with 8+ years building high-performance systems across fintech, e-commerce, and SaaS. I care about clean architecture, security, and shipping things that actually hold up in production.
 
+* Ruby, Elixir, Go, Node, PHP
+* React, Vue, Typescript
+* PostgreSQL, MongoDB, Redis, Elasticsearch
+* AWS, GCP, Docker, Terraform 
+
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oshanz&theme=github_dark)
+
+---
+
 - 🔭 I'm currently working on an AI-driven ideation platform
 - 🌱 I'm currently learning Rust and Clojure
 - 👯 I'm looking to collaborate on open-source Elixir/Phoenix or Ruby on Rails projects
 - ⚡ Fun fact: I'm an experimental cook, no recipes, just vibes and mixing things that (usually) work
+
+---
 
 [![Oshan's github stats](https://github-readme-stats-one-red-72.vercel.app/api?username=oshanz&count_private=true&show_icons=true&rank_icon=github)](https://github.com/oshanz)
 
